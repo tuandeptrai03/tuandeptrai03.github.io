@@ -23,6 +23,10 @@
     .contact-form .text-control {
         padding: 15px;
     }
+
+    .submit-btn{
+        font-size: 17px;
+    }
 }
 
 /* Tablet */
@@ -104,6 +108,7 @@
 
     .contact-form {
         padding-top: 16px;
+        font-size: 16px;
     }
 
 
